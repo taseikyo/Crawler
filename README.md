@@ -9,4 +9,4 @@
 ![](https://github.com/LewisTian/Python/blob/master/pixiv/pixiv.png)
 
 * [爬取微博亚洲新歌榜top50并存到Excel中](https://github.com/LewisTian/Python/blob/master/weibo/NewSongTop50.py)
-![](https://github.com/LewisTian/Python/blob/master/pixiv/weibo.png)
+![](https://github.com/LewisTian/Python/blob/master/weibo/weibo.png)

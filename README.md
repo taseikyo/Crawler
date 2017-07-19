@@ -6,4 +6,4 @@
 
 
 * [爬取pixiv首页的轮换图片](https://github.com/LewisTian/Python/blob/master/pixiv/cover.py)
-![](https://github.com/LewisTian/Python/blob/master/pixiv/cover.png)
+![](https://github.com/LewisTian/Python/blob/master/pixiv/pixiv.png)

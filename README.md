@@ -12,7 +12,15 @@
 ![](https://github.com/LewisTian/Python/blob/master/weibo/weibo.png)
 
 * [爬取B站视频弹幕并保存到txt中](https://github.com/LewisTian/Python/blob/master/bilibili/danmu.py)
-    - 使用方法：python danmu.py https://www.bilibili.com/video/av9933492/
+    - 使用方法：python danmu.py
 
 * [爬取贴吧图片并保存到对应pid文件夹下](https://github.com/LewisTian/Python/blob/master/tieba/image.py)
     - 使用方法：python image.py 2271504759
+
+* [爬取优酷视频弹幕](https://github.com/LewisTian/Python/blob/master/youku/danmu.py)
+    - 使用前记得修改data中的数据，我爬取的是火影第一集的弹幕。
+    - 使用方法：python danmu.py
+    - [video](https://www.bilibili.com/video/av13784309/)
+
+    <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=13784309&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+

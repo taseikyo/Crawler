@@ -21,6 +21,3 @@
     - 使用前记得修改data中的数据，我爬取的是火影第一集的弹幕。
     - 使用方法：python danmu.py
     - [video](https://www.bilibili.com/video/av13784309/)
-
-    <embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=13784309&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
-

@@ -12,7 +12,7 @@
 ![](https://github.com/LewisTian/Python/blob/master/weibo/weibo.png)
 
 * [爬取B站视频弹幕并保存到txt中](https://github.com/LewisTian/Python/blob/master/bilibili/danmu.py)
-    - 使用方法：python danmu.py
+    - 使用方法：python danmu.py https://www.bilibili.com/video/av9933492/
 
 * [爬取贴吧图片并保存到对应pid文件夹下](https://github.com/LewisTian/Python/blob/master/tieba/image.py)
     - 使用方法：python image.py 2271504759

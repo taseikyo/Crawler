@@ -1,5 +1,5 @@
 # Python
-用Python写的各种爬虫小脚本。
+## 用Python写的各种爬虫小脚本。
 
 * [爬取豆瓣电影top250并存到Excel中](https://github.com/LewisTian/Python/blob/master/douban/MovieTop250.py)
 ![](https://github.com/LewisTian/Python/blob/master/douban/movieTop250.png)
@@ -21,3 +21,7 @@
     - 使用前记得修改data中的数据，我爬取的是火影第一集的弹幕。
     - 使用方法：python danmu.py
     - [video](https://www.bilibili.com/video/av13784309/)
+
+* [爬取bing主页背景图](https://github.com/LewisTian/Python/blob/master/bing/cover.py)
+    - ![screenshot](https://i.loli.net/2017/08/31/59a7cde9510a8.png "screenshot")
+    - ![cover](https://cn.bing.com/az/hprichbg/rb/ChamonixClouds_ZH-CN7700889231_1920x1080.jpg "download")

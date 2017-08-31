@@ -5,12 +5,10 @@
 # @Link    : https://github.com/LewisTian
 # @Version : Python3.5
 
-import bs4
 import requests
 import openpyxl
 
 def main():
-    assert bs4.__version__ == "4.6.0"
     assert requests.__version__ == "2.18.1"
     assert openpyxl.__version__ == "2.18.1"
 

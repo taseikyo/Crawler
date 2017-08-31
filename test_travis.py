@@ -10,7 +10,7 @@ import openpyxl
 
 def main():
     assert requests.__version__ == "2.18.1"
-    assert openpyxl.__version__ == "2.18.1"
+    assert openpyxl.__version__ == "2.4.8"
 
 
 if __name__ == '__main__':

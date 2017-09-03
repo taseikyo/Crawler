@@ -5,12 +5,6 @@
 # @GitHub  : https://github.com/LewisTian
 # @Version : Python3.5
 
-'''
-只能下载两个答案的图片
-其他答案是异步加载的
-有时间再弄吧
-'''
-
 import requests
 from bs4 import BeautifulSoup as BS
 import time

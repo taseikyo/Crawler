@@ -1,6 +1,6 @@
 # Python Crawler Scripts
 ![python version](https://img.shields.io/badge/python-3.5-brightgreen.svg)
-### [知乎](https://www.zhihu.com/)|[微博]((https://weibo.com))|[B站](https://www.bilibili.com/)|[豆瓣]((https://www.douban.com/))|[pixiv]((https://www.pixiv.net/))|[贴吧](http://c.tieba.baidu.com/)|[优酷](http://www.youku.com/)|[bing](https://cn.bing.com/)爬虫项目的合集
+### [知乎](https://www.zhihu.com/)|[微博](https://weibo.com))|[B站](https://www.bilibili.com/)|[豆瓣](https://www.douban.com/))|[pixiv](https://www.pixiv.net/))|[贴吧](http://c.tieba.baidu.com/)|[优酷](http://www.youku.com/)|[bing](https://cn.bing.com/)爬虫项目的合集
 
 ## 目录
 ### [豆瓣](#douban)

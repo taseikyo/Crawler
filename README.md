@@ -2,7 +2,7 @@
 ![python version](https://img.shields.io/badge/python-3.5-brightgreen.svg)
 ### [zhihu](https://www.zhihu.com/) | [weibo](https://weibo.com) | [bilibili](https://www.bilibili.com/) | [douban](https://www.douban.com/) | [pixiv](https://www.pixiv.net/) | [tieba](http://c.tieba.baidu.com/) | [youku](http://www.youku.com/) | [bing](https://cn.bing.com/) Crawler Scripts
 
-### [中文](https://github.com/LewisTian/Python/blob/master/README_zh.md.py)
+### [中文](https://github.com/LewisTian/Python/blob/master/README_zh.md)
 
 ## Contents
 ### [douban](#douban)

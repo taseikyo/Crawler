@@ -1,55 +1,26 @@
-# Python Crawler Scripts
+# Python Crawler Scripts:space_invader:
 ![python version](https://img.shields.io/badge/python-3.5-brightgreen.svg)
-### [zhihu](https://www.zhihu.com/) | [weibo](https://weibo.com) | [bilibili](https://www.bilibili.com/) | [douban](https://www.douban.com/) | [pixiv](https://www.pixiv.net/) | [tieba](http://c.tieba.baidu.com/) | [youku](http://www.youku.com/) | [bing](https://cn.bing.com/) Crawler Scripts
 
-### [中文](https://github.com/LewisTian/Python/blob/master/README_zh.md)
+1. [爬取豆瓣电影top250并存到Excel中](https://github.com/LewisTian/Python/blob/master/douban/MovieTop250.py)
 
-## Contents
-### [douban](#douban)
-### [Pixiv](#pixiv_)
-### [weibo](#weibo)
-### [tieba](#tieba)
-### [Bilibili](#bilibili_)
-### [youku](#youku)
-### [bing](#bing)
-### [zhihu](#zhihu)
+2. [爬取pixiv首页的轮换图片](https://github.com/LewisTian/Python/blob/master/pixiv/cover.py)
 
+3. [爬取微博亚洲新歌榜top50并存到Excel中](https://github.com/LewisTian/Python/blob/master/weibo/NewSongTop50.py)
 
-## <p id="douban">douban Crawler</p>
-* [Crawl Douban movie top250 AND save the data to Excel](https://github.com/LewisTian/Python/blob/master/douban/MovieTop250.py)
-![](https://github.com/LewisTian/Python/blob/master/douban/movieTop250.png)
+4. [爬取B站视频弹幕并保存到txt中](https://github.com/LewisTian/Python/blob/master/bilibili/danmu.py)
+    - [Usage]: `python danmu.py $url`
+    - [Example]: `python danmu.py https://www.bilibili.com/video/av9933492/`
 
-## <p id="pixiv_">Pixiv Crawler</p>
-* [Crawl Pixiv home page rotating pictures](https://github.com/LewisTian/Python/blob/master/pixiv/cover.py)
-![](https://github.com/LewisTian/Python/blob/master/pixiv/pixiv.png)
+5. [爬取贴吧图片并保存到对应pid文件夹下](https://github.com/LewisTian/Python/blob/master/tieba/image.py)
+    - [Usage]: `python danmu.py $pid`
+    - [Example]: `python image.py 2271504759`
 
-## <p id="weibo">weibo Crawler</p>
-* [Crawl Weibo Asia new song top50 AND save the data to Excel](https://github.com/LewisTian/Python/blob/master/weibo/NewSongTop50.py)
-![](https://github.com/LewisTian/Python/blob/master/weibo/weibo.png)
+6. [爬取优酷视频弹幕](https://github.com/LewisTian/Python/blob/master/youku/danmu.py)
+    - 使用前记得修改`data`中的数据，我填入的是[火影第一集](http://v.youku.com/v_show/id_XNTQwMTgxMTE2.html)的弹幕请求数据
+    - [视频介绍](https://www.bilibili.com/video/av13784309/)
 
-## <p id="bilibili_">bilibili Crawler</p>
-* [Crawl Bilibili video barrage AND save it to txt](https://github.com/LewisTian/Python/blob/master/bilibili/danmu.py)
-    - Usage：`python danmu.py https://www.bilibili.com/video/av9933492/`
-
-## <p id="tieba">tieba Crawler</p>
-* [Crawl Tieba images AND save it to the corresponding pid folder](https://github.com/LewisTian/Python/blob/master/tieba/image.py)
-    - Usage：`python image.py 2271504759`
-
-## <p id="youku">youku Crawler</p>
-* [Crawling Youku video barrage(https://github.com/LewisTian/Python/blob/master/youku/danmu.py)
-    - Remember to modify the variable `data` before using it.
-    - Usage：`python danmu.py`
-    - [video](https://www.bilibili.com/video/av13784309/)
-
-## <p id="bing">bing Crawler</p>
-* [Crawling bing home page background image](https://github.com/LewisTian/Python/blob/master/bing/cover.py)
-    - <img src="https://i.loli.net/2017/08/31/59a7cde9510a8.png" alt="Screenshot" title="Screenshot" height="150" />
-    - <img src="https://cn.bing.com/az/hprichbg/rb/ChamonixClouds_ZH-CN7700889231_1920x1080.jpg" title="download" alt="download" height="150" />
-
-## <p id="zhihu">zhihu Crawler</p>
-* [Crawl the picture of zhihu](https://github.com/LewisTian/Python/blob/master/zhihu/image.py)
-    - Remember to modify the question id before using it, fill in the cookie.
-    - Usage：python image.py
+7. [爬取bing主页背景图](https://github.com/LewisTian/Python/blob/master/bing/cover.py)
 
 
-## [to Top](#top)
+8. [爬取知乎回答图片](https://github.com/LewisTian/Python/blob/master/zhihu/image.py)
+    - 使用前需要更新问题`id`, 填入`Cookie`, `include`应该不需要更新

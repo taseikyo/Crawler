@@ -1,6 +1,8 @@
 # Python Crawler Scripts:space_invader:
 ![python version](https://img.shields.io/badge/python-3.5-brightgreen.svg)
 
+> 人生苦短, 我用Python!
+
 1. [爬取豆瓣电影top250并存到Excel中](https://github.com/LewisTian/Python/blob/master/douban/MovieTop250.py)
     - [图片](https://github.com/LewisTian/Crawler/blob/master/douban/movieTop250.png "douban")
 

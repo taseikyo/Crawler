@@ -30,3 +30,10 @@
 
 9. [爬取「ONE · 一个」的插图](https://github.com/LewisTian/Python/blob/master/one/image.py)
     - [「ONE · 一个」](http://www.wufazhuce.com/)
+
+10. 爬取[煎蛋网](http://jandan.net/ooxx/)妹子图
+
+    - [问题](http://bbs.fishc.com/thread-98098-1-1.html)来自[鱼C互助区](http://bbs.fishc.com/bestanswer.php?mod=huzhu)
+    - [代码](https://github.com/LewisTian/Python/blob/master/fishC/jandan.py)
+        - 此代码并没有加下载图片的函数。因为我之前试过爬微博图片，与其自己写下载函数，倒不如把链接保存下来，全部扔到迅雷来下载，那样速度快多了
+    - 有时间改成多线程

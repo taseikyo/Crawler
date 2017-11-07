@@ -39,3 +39,6 @@
     - [代码](https://github.com/LewisTian/Python/blob/master/fishC/jandan.py)
         - 此代码并没有加下载图片的函数。因为我之前试过爬微博图片，与其自己写下载函数，倒不如把链接保存下来，全部扔到迅雷来下载，那样速度快多了
     - 有时间改成多线程
+
+11.[爬取优酷首页轮换图](https://github.com/LewisTian/Python/blob/master/youku/screen_pics.py)
+    - [图片](https://i.loli.net/2017/11/07/5a0155cebc280.png "screen")

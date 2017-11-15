@@ -45,3 +45,8 @@
 ### [爬取堆糖图片](https://github.com/LewisTian/Python/blob/master/duitang/picture.py)
 - 有时间将爬取专辑的函数加上
 - [以"古风"为例](https://i.loli.net/2017/11/13/5a09631192f59.png)
+
+### [爬取知乎异步加载页面数据(第二页及之后)](https://github.com/LewisTian/Python/blob/master/zhihu/ajax_page.py)
+- 返回未验证方式是因为没有给headers传递 `X-API-VERSION`, `X-UDID`, `authorization` 等参数
+- 问题来自知乎一位朋友问我, 因此做的比较粗糙, 没有详细提取数据, 仅将答主提取出来
+- 得到的一些答主 [数据](https://github.com/LewisTian/Python/blob/master/zhihu/ajax_page.txt)

@@ -1,6 +1,4 @@
-# Python Crawler Scripts:space_invader:
-![python version](https://img.shields.io/badge/python-3.5-brightgreen.svg)
-## Python3 爬虫合集
+# Python3 爬虫合集![python version](https://img.shields.io/badge/python-3.5-brightgreen.svg)
 > 人生苦短, 我用Python!
 
 ## Contents

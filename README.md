@@ -19,11 +19,11 @@
 
 ## 优酷
 ### [爬取优酷视频弹幕](https://github.com/LewisTian/Python/blob/master/youku/danmu.py)
-- 使用前记得修改`data`中的数据，我填入的是[火影第一集](http://v.youku.com/v_show/id_XNTQwMTgxMTE2.html)的弹幕请求数据
+- 使用前记得修改 `data` 和 `headers` 中的 `Referer` 数据，我填入的是[火影第一集](http://v.youku.com/v_show/id_XNTQwMTgxMTE2.html)的弹幕请求数据
+- [视频介绍](https://www.bilibili.com/video/av13784309/)
 
 ### [爬取优酷首页轮换图](https://github.com/LewisTian/Python/blob/master/youku/screen_pics.py)
 ![screen](https://i.loli.net/2017/11/07/5a0155cebc280.png "screen")
-- [视频介绍](https://www.bilibili.com/video/av13784309/)
 
 ## Pixiv
 ### [爬取首页的轮换图片](https://github.com/LewisTian/Python/blob/master/pixiv/cover.py)
@@ -50,7 +50,7 @@
 ## 微软
 ### [爬取bing主页背景图](https://github.com/LewisTian/Python/blob/master/bing/cover.py)
 ![bing](https://github.com/LewisTian/Python/blob/master/bing/Piraputanga_ZH-CN13303102627_1920x1080.jpg "bing")
-![screenshot](https://github.com/LewisTian/Python/blob/master/bing/QQ截图20171130191346 "screenshot")
+![screenshot](https://github.com/LewisTian/Python/blob/master/bing/QQ截图20171130191346.jpg "screenshot")
 
 ## 其他
 ### [爬取「ONE · 一个」的插图](https://github.com/LewisTian/Python/blob/master/one/image.py)

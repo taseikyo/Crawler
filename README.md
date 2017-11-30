@@ -49,7 +49,8 @@
 
 ## 微软
 ### [爬取bing主页背景图](https://github.com/LewisTian/Python/blob/master/bing/cover.py)
-![bing](https://cn.bing.com/az/hprichbg/rb/ChamonixClouds_ZH-CN7700889231_1920x1080.jpg "bing")
+![bing](https://github.com/LewisTian/Python/blob/master/bing/Piraputanga_ZH-CN13303102627_1920x1080.jpg "bing")
+![screenshot](https://github.com/LewisTian/Python/blob/master/bing/QQ截图20171130191346 "screenshot")
 
 ## 其他
 ### [爬取「ONE · 一个」的插图](https://github.com/LewisTian/Python/blob/master/one/image.py)

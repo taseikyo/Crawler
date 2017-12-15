@@ -35,7 +35,7 @@
 
 ## 知乎
 ### [爬取知乎回答图片](https://github.com/LewisTian/Python/blob/master/zhihu/image.py)
-- 使用前需要更新问题`id`, 填入`Cookie`, `include`应该不需要更新
+- 使用前需要更新问题 `id`, 填入 `Cookie`, `include` 应该不需要更新
 
 ### [爬取知乎异步加载页面数据(第二页及之后)](https://github.com/LewisTian/Python/blob/master/zhihu/ajax_page.py)
 - 返回未验证方式是因为没有给headers传递 `X-API-VERSION`, `X-UDID`, `authorization` 等参数
@@ -43,9 +43,14 @@
 - 得到的一些答主 [数据](https://github.com/LewisTian/Python/blob/master/zhihu/ajax_page.txt)
 
 ## 百度
-### [爬取贴吧图片并保存到对应pid文件夹下](https://github.com/LewisTian/Python/blob/master/tieba/image.py)
+### [爬取贴吧图片并保存到对应pid文件夹下](https://github.com/LewisTian/Python/blob/master/baidu/getTiebaPics.py)
 - [Usage]: `python danmu.py $pid`
-- [Example]: `python image.py 2271504759`
+- [Example]: `python getTiebaPics.py 2271504759`
+
+### [爬取百度图片](https://github.com/LewisTian/Python/blob/master/baidu/getBaiduPics.py)
+- [Usage]: `python3 getBaiduPics.py [Word] [pages = 1]`
+- [Example]: `python3 getBaiduPics.py 猫 30`
+- 注: 图片将保存在关键词的同名目录下。
 
 ## 微软
 ### [爬取bing主页背景图](https://github.com/LewisTian/Python/blob/master/bing/cover.py)

@@ -15,7 +15,9 @@
 
 ## 豆瓣
 ### [爬取豆瓣电影top250并存到Excel中](https://github.com/LewisTian/Python/blob/master/douban/MovieTop250.py)
-![douban](https://github.com/LewisTian/Crawler/blob/master/douban/movieTop250.png "douban")
+<div align="center">
+	<img src="douban/movieTop250.png" alt="douban" width="500">
+</div>
 
 ## 优酷
 ### [爬取优酷视频弹幕](https://github.com/LewisTian/Python/blob/master/youku/danmu.py)
@@ -23,15 +25,21 @@
 - [视频介绍](https://www.bilibili.com/video/av13784309/)
 
 ### [爬取优酷首页轮换图](https://github.com/LewisTian/Python/blob/master/youku/screen_pics.py)
-![screen](https://i.loli.net/2017/11/07/5a0155cebc280.png "screen")
+<div align="center">
+	<img src="https://i.loli.net/2017/11/07/5a0155cebc280.png" alt="youku" width="500">
+</div>
 
 ## Pixiv
 ### [爬取首页的轮换图片](https://github.com/LewisTian/Python/blob/master/pixiv/cover.py)
-![Pixiv](https://github.com/LewisTian/Python/blob/master/pixiv/pixiv.png "Pixiv")
+<div align="center">
+	<img src="pixiv/pixiv.png" alt="pixiv首页轮换图" width="500">
+</div>
 
 ## 微博
 ### [爬取微博亚洲新歌榜top50并存到Excel中](https://github.com/LewisTian/Python/blob/master/weibo/NewSongTop50.py)
-![weibo](https://github.com/LewisTian/Python/blob/master/weibo/weibo.png "weibo")
+<div align="center">
+	<img src="weibo/weibo.png" alt="微博亚洲新歌榜" width="450">
+</div>
 
 ## 知乎
 ### [爬取知乎回答图片](https://github.com/LewisTian/Python/blob/master/zhihu/image.py)
@@ -54,8 +62,12 @@
 
 ## 微软
 ### [爬取bing主页背景图](https://github.com/LewisTian/Python/blob/master/bing/cover.py)
-![bing](https://github.com/LewisTian/Python/blob/master/bing/Piraputanga_ZH-CN13303102627_1920x1080.jpg "bing")
-![screenshot](https://github.com/LewisTian/Python/blob/master/bing/QQ截图20171130191346.jpg "screenshot")
+<div align="center">
+	<img src="bing/Piraputanga_ZH-CN13303102627_1920x1080.jpg" alt="bing" width="600">
+</div>
+<div align="center">
+	<img src="bing/QQ截图20171130191346.jpg" alt="screenshot" width="600">
+</div>
 
 ## 其他
 ### [爬取「ONE · 一个」的插图](https://github.com/LewisTian/Python/blob/master/one/image.py)
@@ -70,4 +82,6 @@
 
 ### [爬取堆糖图片](https://github.com/LewisTian/Python/blob/master/duitang/picture.py)
 - 有时间将爬取专辑的函数加上
-![gufeng](https://i.loli.net/2017/11/13/5a09631192f59.png)
+<div align="center">
+	<img src="https://i.loli.net/2017/11/13/5a09631192f59.png" alt="堆糖·古风" width="600">
+</div>

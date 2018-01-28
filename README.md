@@ -25,6 +25,33 @@
 - [Usage]: `python danmu.py $url`
 - [Example]: `python danmu.py https://www.bilibili.com/video/av9933492/`
 
+### [番剧索引](bilibili/bangumi_index.py)
+#### 还在进行中...
+需要传递的参数及说明如下所示, 由于 `tag_id` 的可选项太多, 暂时没有考虑
+```
+data  = {
+	'page':1,			# 第几页
+	'page_size':20,		# 每页的数量
+	'version':0, 		# 类型： 全部 正片 剧场版 其他 [0 - 4]
+	'is_finish':0,		# 状态： 全部 完结 连载 [0 2 1]
+	'start_year':0, 	# 时间： 全部 某一年 [0 xxxx]
+	'tag_id':'',		# 风格
+	'index_type':1,		# 排序方式: 更新时间 追番人数 开播时间 [0 - 2]
+	'index_sort':0,		# 排序类型: 递减 递增 [0 - 1]
+	'area':0,			# 地区: 全部 日本 美国 其他 [0 2 3 4]
+	'quarter':0   		# 季度： 全部 1月 4月 7月 10月 [0 - 4]
+}
+```
+- [Usage]: `python bangumi_index.py [-t <type> | -a <area> | -e <state> | -m <time> | -s <season> |--tag <style> | --index_type <index_type> | --index_sort <index_sort>]`
+- 返回的 `Json` 文件
+<div align="center">
+	<img src="bilibili/bangumi-1.png" alt="bangumi-1" width="600">
+</div>
+- `list` 中一项
+<div align="center">
+	<img src="bilibili/bangumi-2.png" alt="bangumi-2" width="600">
+</div>
+
 ## 豆瓣
 ### [爬取豆瓣电影top250并存到Excel中](https://github.com/LewisTian/Python/blob/master/douban/MovieTop250.py)
 <div align="center">

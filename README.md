@@ -47,6 +47,7 @@ data  = {
 <div align="center">
 	<img src="bilibili/bangumi-1.png" alt="bangumi-1" width="600">
 </div>
+
 - `list` 中一项
 <div align="center">
 	<img src="bilibili/bangumi-2.png" alt="bangumi-2" width="600">

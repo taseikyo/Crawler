@@ -7,14 +7,15 @@
 		<td><a href="#bilibili">Bilibili</a></td>
 		<td><a href="#豆瓣">豆瓣</a></td>
 		<td><a href="#优酷">优酷</a></td>
+		<td><a href="#pixiv">Pixiv</a></td>
 	</tr>
 	<tr>
-		<td><a href="#pixiv">Pixiv</a></td>
+		<td><a href="#网易云">网易云</a></td>
 		<td><a href="#微博">微博</a></td>
 		<td><a href="#知乎">知乎</a></td>
+		<td><a href="#百度">百度</a></td>
 	</tr>
 	<tr>
-		<td><a href="#百度">百度</a></td>
 		<td><a href="#微软">微软</a></td>
 		<td><a href="#其他">其他</a></td>
 	</tr>
@@ -74,6 +75,11 @@ data  = {
 <div align="center">
 	<img src="pixiv/pixiv.png" alt="pixiv首页轮换图" width="500">
 </div>
+
+## 网易云
+### [下载网易云歌曲](netease/download_music.py)
+- 网易云获取歌曲 `API` 为 `http://music.163.com/song/media/outer/url?id={song_id}.mp3`
+- 只需要传入对应歌曲的 `song_id` 即可
 
 ## 微博
 ### [爬取微博亚洲新歌榜top50并存到Excel中](weibo/NewSongTop50.py)

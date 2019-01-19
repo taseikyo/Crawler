@@ -1,3 +1,4 @@
-requests == 2.18.1
-openpyxl == 2.4.8
+requests
+openpyxl
 bs4
+selenium

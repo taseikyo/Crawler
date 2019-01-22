@@ -13,13 +13,19 @@
 
 ### [logo图片爬取](bilibili/bili-logo.py)
 <div align="center">
-	<img src="bilibili/bili-logo.png" alt="bili-logo" width="500">
+	<img src="bilibili/bili-logo.png" alt="bili-logo" title="bili-logo" width="500">
+</div>
+
+### [挂件图片爬取](bilibili/bili-pendant.py)
+- 使用方法：将要爬取的视频链接写入 'bili-pendant.txt'
+<div align="center">
+	<img src="bilibili/bili-pendant.png" alt="bili-pendant" title="bili-pendant" width="500">
 </div>
 
 ## 豆瓣
 ### [爬取豆瓣电影top250并存到Excel中](douban/MovieTop250.py)
 <div align="center">
-	<img src="douban/movieTop250.png" alt="douban" width="500">
+	<img src="douban/movieTop250.png" alt="douban" title="douban"  width="500">
 </div>
 
 ## 优酷

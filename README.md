@@ -22,6 +22,10 @@
 	<img src="bilibili/bili-pendant.png" alt="bili-pendant" title="bili-pendant" width="500">
 </div>
 
+### [爬取历年播放量前 20 的 mad 数据](bilibili/bili-mad.py)
+- [生成词云](bilibili/bili-mad-wordcloud.py)
+- [数据及词云的材料](bilibili/bili-mad.7z)
+
 ## 豆瓣
 ### [爬取豆瓣电影top250并存到Excel中](douban/MovieTop250.py)
 <div align="center">

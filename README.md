@@ -1,4 +1,4 @@
-# Python3 爬虫合集![python version](https://img.shields.io/badge/python-3.5-brightgreen.svg)
+# Python3 爬虫合集
 > 人生苦短, 我用Python!
 
 ## Table of Contents
@@ -25,6 +25,10 @@
 ### [爬取历年播放量前 20 的 mad 数据](bilibili/bili-mad.py)
 - [生成词云](bilibili/bili-mad-wordcloud.py)
 - [数据及词云的材料](bilibili/bili-mad.7z)
+<div align="center">
+	<img src="https://lewistian.github.io/images/bili-mad/wordcloud-bilibili.png" alt="bili-mad" title="bili-mad">
+</div>
+
 
 ## 豆瓣
 ### [爬取豆瓣电影top250并存到Excel中](douban/MovieTop250.py)
@@ -107,4 +111,9 @@
 ### [爬取慕课网课程](imooc/README.md)
 <div align="center">
 	<img src="imooc/images/img-7.png" alt="慕课网课程" width="600">
+</div>
+
+### [好特游戏壁纸](haote/wallpaper.py)
+<div align="center">
+	<img src="haote/haote_wallpaper.png" alt="好特壁纸">
 </div>

@@ -36,6 +36,12 @@
 	<img src="douban/movieTop250.png" alt="douban" title="douban"  width="500">
 </div>
 
+### [爬取豆瓣相册](douban/album.py)
+- 根据相册 id 爬取所有图片，并保存到对应 id 目录下
+<div align="center">
+	<img src="douban/album.png" alt="douban" title="douban"  width="500">
+</div>
+
 ## 优酷
 ### [爬取优酷视频弹幕](youku/danmu.py)
 - 使用前记得修改 `data` 和 `headers` 中的 `Referer` 数据，我填入的是[火影第一集](http://v.youku.com/v_show/id_XNTQwMTgxMTE2.html)的弹幕请求数据
@@ -96,7 +102,7 @@
 - [「ONE · 一个」](http://www.wufazhuce.com/)
 
 ### 爬取[煎蛋网](http://jandan.net/ooxx/)妹子图
-- [问题](http://bbs.fishc.com/thread-98098-1-1.html)来自[鱼C互助区](http://bbs.fishc.com/bestanswer.php?mod=huzhu)
+- [问题](http://bbs.fishc.com/thread-98098-1-1.html) 来自 [鱼C互助区](http://bbs.fishc.com/bestanswer.php?mod=huzhu)
 - [代码](fishC/jandan.py)
     - 此代码并没有加下载图片的函数。因为我之前试过爬微博图片，与其自己写下载函数，倒不如把链接保存下来，全部扔到迅雷来下载，那样速度快多了
 - 有时间改成多线程

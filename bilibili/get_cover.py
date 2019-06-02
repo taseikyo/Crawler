@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date    : 2018-10-21 19:33:57
-# @Author  : Lewis Tian (chtian@hust.edu.cn | 2471740600@qq.com)
+# @Author  : Lewis Tian (chtian@hust.edu.cn)
 # @Link    : https://lewistian.github.io/
 # @Version : Python3
 # @Description : get cover according to the av num

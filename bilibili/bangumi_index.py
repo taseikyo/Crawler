@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @Date    : 2018-01-22 22:37:35
-# @Author  : Lewis Tian (2471740600@qq.com | lewis.smith.tian@gmail.com)
+# @Author  : Lewis Tian (chtian@hust.edu.cn)
 # @Link    : https://lewistian.github.io/
 # @Version : Python3.5
 

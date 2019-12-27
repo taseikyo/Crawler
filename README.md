@@ -42,6 +42,8 @@
 	<img src="douban/album.png" alt="douban" title="douban"  width="500">
 </div>
 
+### [reading: 豆瓣读书爬虫](douban/reading)
+
 ## 优酷
 ### [爬取优酷视频弹幕](youku/danmu.py)
 - 使用前记得修改 `data` 和 `headers` 中的 `Referer` 数据，我填入的是[火影第一集](http://v.youku.com/v_show/id_XNTQwMTgxMTE2.html)的弹幕请求数据

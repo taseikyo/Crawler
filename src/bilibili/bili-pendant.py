@@ -50,7 +50,6 @@ def pendant(url, av):
     pn = 1
     while has_more:
         print(f"retrieving {url} page {pn}...")
-        av = re.findall(r"\d+", url)[0]
         api = f"https://api.bilibili.com/x/v2/reply?callback=&jsonp=jsonp&pn={pn}&type=1&oid={av}&sort=0&_={int(time.time()*1000)}"
         headers = {
             "Host": "api.bilibili.com",
